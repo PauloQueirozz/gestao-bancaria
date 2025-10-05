@@ -35,7 +35,7 @@ public class Conta {
     }
 
     public void mostrarDados() {
-        System.out.println("Titular: " + this.titular);
+        System.out.println("\nTitular: " + this.titular);
         System.out.println("Numero: " + this.numero);
         System.out.println("Saldo: " + this.saldo);
     }
