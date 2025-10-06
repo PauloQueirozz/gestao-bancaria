@@ -22,7 +22,7 @@ public class Main {
             }
 
             System.out.println("Nome do titular: ");
-            String nomeTitular = input.nextLine();
+            String nomeTitular = input.next();
 
             input.nextLine();
 
